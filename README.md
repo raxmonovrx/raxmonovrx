@@ -1,25 +1,54 @@
-# Hello World!, I'm FarruXbek and I'm a Frontend Developer 👋🏼:
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=raxmonovrx.raxmonovrx" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+FarruXbek+Raxmonov!;I'm+Software+Developer!;" />
+</h1>
+
+<br/>
 
 <div align="center">
-  <div style="display:block; text-align:left; max-width:100%;">
-    🛜 currently working on my own [webpage](https://www.raxmonovrx.uz)<br>👨🏼‍🎓 learning advanced JavaScript and React concepts to level up my skills<br>👨🏼‍💻 exploring web development and building projects since 2024 <br>🎬 planning to start my blog about IT, programming, and AI soon
-  </div>
-  <img height="150" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
+ 
+🛜 Currently working on my own **[web-site](https://raxmonovrx.uz)**
+
+👨🏼‍🎓 Learning  **Express** and **React** concepts to level up my skills
+
+👨🏼‍💻 Exploring web development and building projects since 2024
+
+🎬 Planning to start my blog about IT, programming, and AI soon
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:raxmonovrx.uz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/raxmonovrx" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://raxmonovrx.uz" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,github,git,figma,bootstrap," />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,express,notion,materialui,tailwind,nextjs,vscode" /><br>
+</div>
 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascripit-000000?style=for-the-badge&logo=javascript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br/>
+<hr/>
 
-
-# 🧑‍💻 Learning:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raxmonovrx/raxmonovrx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raxmonovrx/raxmonovrx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/raxmonovrx/raxmonovrx/output/github-snake.svg" />
 </picture>
+  <br/><br/><br/>
+</div>
