@@ -7,8 +7,6 @@
 <br/>
 
 <div align="center">
- 
-🛜 Currently working on my own **[web-site](https://raxmonovrx.uz)**
 
 👨🏼‍🎓 Learning  **Express** and **React** concepts to level up my skills
 
